@@ -121,4 +121,4 @@ dmypy.json
 cython_debug/
 
 # Images
-/images/
+datasets/images/
